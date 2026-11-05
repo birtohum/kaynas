@@ -1,0 +1,21 @@
+3:"$Sreact.fragment"
+5:"/kaynas/_next/static/chunks/0x8uv7amaonkq.js"
+6:I[46441,["$5"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:"ViewportBoundary"
+c:I[46441,["$5"],"$b"]
+d:"MetadataBoundary"
+e:I[46441,["$5"],"$d"]
+f:I[25416,["$5"],"IconMark"]
+a:X
+2:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$3","c",{"children":["$L4",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"p":"$@9","v":null,"s":"$a"}}]]
+1:[["children",{"s":"onizleme","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$Lc",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0e0e11","media":"(prefers-color-scheme: dark)"}]]}],["$","$Le",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kaynaş: Yaşıtlarınla tanış"}],["$","meta","1",{"name":"description","content":"Kaynaş, ilgi alanlarına göre seni yaşıtlarınla buluşturur. 18 yaş altı hesaplar veli onayıyla açılır, yetişkinlerden ayrı tutulur."}],["$","meta","2",{"name":"application-name","content":"Kaynaş"}],["$","link","3",{"rel":"manifest","href":"/kaynas/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Kaynaş"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/kaynas/icon.svg?icon.3rilwen9lrrem.svg","sizes":"any","type":"image/svg+xml"}],["$","link","8",{"rel":"apple-touch-icon","href":"/kaynas/apple-icon.png?apple-icon.26sdqbk41zfxl.png","sizes":"180x180","type":"image/png"}],["$","$Lf","9",{}]]}]}],null]}],null]}],"p":"$@10","v":null,"s":"$a"}},"a":"$@11","u":"$@12","b":"0gAPJy-s7jpFKy4vqhgbd"}
+4:E{"digest":"NEXT_REDIRECT;replace;/onizleme/kesfet;307;"}
+8:null
+12:true
+a:300
+a:C
+11:0
+10:"$undefined"
+9:"$undefined"

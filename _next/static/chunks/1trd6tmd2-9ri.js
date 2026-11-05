@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,75762,t=>{"use strict";var i=t.i(84429),e=t.i(2783),o=t.i(45174);t.s(["MarkNotificationsRead",0,function(){let{clearNotifications:t}=(0,o.useLiveActions)();return(0,i.useEffect)(()=>{(0,e.f)().rpc("mark_notifications_read").then(({error:i})=>{i||t()})},[]),null}])}]);

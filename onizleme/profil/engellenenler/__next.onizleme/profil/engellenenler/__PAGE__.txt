@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/kaynas/_next/static/chunks/0x8uv7amaonkq.js"
+5:I[97274,["$4"],"default"]
+6:I[46442,["$4"],"default"]
+d:"/kaynas/_next/static/chunks/1cbu29ouzunoj.js"
+e:"/kaynas/_next/static/chunks/1r8r-162c303g.js"
+f:"/kaynas/_next/static/chunks/1sbn7r46qg4z5.js"
+10:"/kaynas/_next/static/chunks/2peog57u5r7wj.js"
+11:I[36848,["$4","$d","$e","$f","$10"],""]
+12:I[46441,["$4"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[46441,["$4"],"$16"]
+18:"MetadataBoundary"
+19:I[46441,["$4"],"$18"]
+1a:I[25416,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","header",null,{"className":"sticky top-0 z-20 -mx-4 mb-4 flex h-14 items-center gap-1 border-b border-line bg-bg/90 px-4 backdrop-blur-md lg:static lg:mx-0 lg:mb-6 lg:h-auto lg:border-0 lg:bg-transparent lg:px-0 lg:pt-10 lg:backdrop-blur-none","children":[["$","$L11",null,{"href":"/onizleme/profil","className":"-ml-2 grid h-10 w-10 place-items-center rounded-full hover:bg-fill","aria-label":"Geri","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":22,"height":22,"fill":"currentColor","viewBox":"0 0 256 256","children":[false,"$undefined",["$","path",null,{"d":"M168.49,199.51a12,12,0,0,1-17,17l-80-80a12,12,0,0,1,0-17l80-80a12,12,0,0,1,17,17L97,128Z"}]]}]}],["$","h1",null,{"className":"min-w-0 flex-1 truncate text-[22px] font-bold tracking-tight lg:text-[28px]","children":"Engellediğin kişiler"}],"$undefined"]}],["$","div",null,{"className":"flex flex-col items-center px-6 py-14 text-center","children":[["$","span",null,{"className":"grid h-16 w-16 place-items-center rounded-full bg-fill text-ink-2","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":30,"height":30,"fill":"currentColor","viewBox":"0 0 256 256","children":[false,"$undefined",["$","path",null,{"d":"M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm88,104a87.56,87.56,0,0,1-20.41,56.28L71.72,60.4A88,88,0,0,1,216,128ZM40,128A87.56,87.56,0,0,1,60.41,71.72L184.28,195.6A88,88,0,0,1,40,128Z"}]]}]}],["$","p",null,{"className":"mt-4 text-lg font-bold","children":"Kimseyi engellemedin"}],["$","p",null,{"className":"mt-1 max-w-xs text-muted","children":"Engellediğin kişiler burada görünür."}],"$undefined"]}]],[["$","script","script-0",{"src":"/kaynas/_next/static/chunks/2peog57u5r7wj.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$9"}}]]
+a:[["children",{"s":"engellenenler","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"profil","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"onizleme","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0e0e11","media":"(prefers-color-scheme: dark)"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kaynaş: Yaşıtlarınla tanış"}],["$","meta","1",{"name":"description","content":"Kaynaş, ilgi alanlarına göre seni yaşıtlarınla buluşturur. 18 yaş altı hesaplar veli onayıyla açılır, yetişkinlerden ayrı tutulur."}],["$","meta","2",{"name":"application-name","content":"Kaynaş"}],["$","link","3",{"rel":"manifest","href":"/kaynas/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Kaynaş"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/kaynas/icon.svg?icon.3rilwen9lrrem.svg","sizes":"any","type":"image/svg+xml"}],["$","link","8",{"rel":"apple-touch-icon","href":"/kaynas/apple-icon.png?apple-icon.26sdqbk41zfxl.png","sizes":"180x180","type":"image/png"}],["$","$L1a","9",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"0gAPJy-s7jpFKy4vqhgbd"}
+14:null
+1d:true
+9:300
+9:C
+1c:0
+b:"$undefined"
+7:"$undefined"
+1b:"$undefined"
+15:"$undefined"

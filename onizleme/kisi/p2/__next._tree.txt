@@ -1,0 +1,6 @@
+:HL["/kaynas/_next/static/chunks/1zqipzeo4l4ed.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"id","t":"d","k":"p2","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"kisi","h":131136,"c":"$Q3"}]]
+1:[["children",{"s":"onizleme","h":131104,"c":"$Q2"}]]
+0:{"b":"0gAPJy-s7jpFKy4vqhgbd","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
